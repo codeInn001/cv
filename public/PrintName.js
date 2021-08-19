@@ -4,4 +4,4 @@ function printName(name) {
 }
 
 
-PrintName('Emmanuel')
+printName('Emmanuel')
